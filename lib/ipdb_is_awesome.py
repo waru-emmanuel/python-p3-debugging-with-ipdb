@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-
-import ipdb
+# import statements DO NOT use quotes or semi colons unlike in JS frameworks like React etc
+import ipdb  #statement that loads the ipdb library in this file when our application runs
 
 def tracing_the_function():
     inside_the_function = "We're inside the function"
